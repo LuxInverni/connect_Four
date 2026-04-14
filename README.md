@@ -5,6 +5,9 @@ A fully playable **Connect 4** game built with Python and Pygame, featuring a cl
 
 ## ✨ Features:
 
+![screenshot](connect4.png)
+
+
 # 🎮 Game Modes
 - Player vs Player (local hot-seat)
 - Player vs AI
